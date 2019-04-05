@@ -1,0 +1,16 @@
+{
+  "metadata" : {
+    "realm" : null,
+    "amsterVersion" : "6.5.1",
+    "entityType" : "Realms",
+    "entityId" : "L21hbm9q",
+    "pathParams" : { }
+  },
+  "data" : {
+    "_id" : "L21hbm9q",
+    "parentPath" : "/",
+    "active" : true,
+    "name" : "manoj",
+    "aliases" : [ ]
+  }
+}
